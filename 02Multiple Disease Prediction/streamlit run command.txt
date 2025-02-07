@@ -1,0 +1,1 @@
+streamlit run "D:\02 Deploying Model\02Multiple Disease Prediction\01 Multiple disease pred.py"
