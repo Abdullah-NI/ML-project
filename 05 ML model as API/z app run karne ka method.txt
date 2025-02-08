@@ -1,0 +1,11 @@
+-->first open terminal of machine learning enviorment then past
+d:
+"D:\02 Deploying Model\05 ML model as API\python code"  means path copy karke folder me gay aur yha folder D drive me hai
+
+-->after that , start the api by this commend
+python -m uvicorn ml_api:app --reload      #where mp_api our python file of api code
+
+
+-->then we see a link peste it in your api implementation 
+
+-->to close api press ctrl+c
