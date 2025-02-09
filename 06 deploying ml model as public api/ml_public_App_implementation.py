@@ -8,7 +8,7 @@ Created on Sat Feb  8 15:59:22 2025
 import json
 import requests
 
-url='https://b710-35-226-148-208.ngrok-free.app/diabetes_prediction'
+url='https://b710-35-226-148-208.ngrok-free.app/diabetes_prediction'  # ye har baar run hone per change hogi link 
 
 
 input_data_for_model={
