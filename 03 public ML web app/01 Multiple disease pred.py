@@ -7,7 +7,8 @@ Created on Fri Feb  7 10:59:11 2025
 
 import pickle
 import streamlit as st
-from streamlit_option_menu import option_menu
+from streamlit-option-menu import option_menu
+
 
 #loading the saved model
 diabetes_model=pickle.load(open("diabetes_model.sav",'rb'))
